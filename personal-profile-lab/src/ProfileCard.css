@@ -268,10 +268,15 @@
     transform: translateY(-2px);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
+
+
   /* ส่วนที่นักศึกษาจะต้องเพิ่มเติม:
   - Theme toggle button styles
   - Social media links styles  
   - Achievement badges styles
   - Animation keyframes
+
   - Dark mode variant styles
+
+  
   */
